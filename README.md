@@ -1,0 +1,1 @@
+This project will replicate the Google homepage. We will deconstruct google.com and use HTML and CSS to accompish this. Once this is completed with odinproject this will be converted into the CS50 Web course for project 0 to add a searchable form for text, images, and advanced options. Once done we will add the iconic "feeling lucky" to the homepage.
